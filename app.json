@@ -1,14 +1,14 @@
 {
-  "name": "SITHUWA-MD",
+  "name": "YAKA-BOT-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/90ecbecc7dcfb93ede0fa.jpg",
+  "logo": "https://telegra.ph/file/687d9c6bc5471d7c4486d.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Sithuwa Bot", "sithuwa","SITHUWA-MD","theme bot","multi device","baileys","Sithum Kalhara"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Sithum Kalhara"
+      "value": "DANIDU NIRMAL"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/15b1dd8aeaa47888d75d7.jpg"
+     "value": "https://telegra.ph/file/687d9c6bc5471d7c4486d.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -99,11 +99,11 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "SITHUWA:"
+    "value": "MR DANIDU:"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "SITHUWA-MD"
+    "value": "STICKER BY YAKA BOT"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 
