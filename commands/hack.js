@@ -90,7 +90,7 @@ citel.reply("```👼 SUCCESSFULLY SENT DATA AND Connection disconnected```")
 
 await sleep(1000)
 
-            return citel.reply('*👿 ALL FILES TRANSFERRED*');
+            return citel.reply('*THIS FRANK CREATED BY YAKA CREW 😂*');
 
         }
 
