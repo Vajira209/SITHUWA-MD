@@ -1,15 +1,15 @@
 {
-               "name": "sithuwa-md",
-               "version": "1.0.5",
-               "description": "Multi device whatsapp bot by Sithuwa.",
+               "name": "YAKA BOT",
+               "version": "1.0.0",
+               "description": "Multi device whatsapp bot by Yaka Crew Danidu",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name SITHUWA-MD",
-                "stop": "pm2 stop SITHUWA-MD"
+                "stop": "pm2 stop YAKA BOT"
                 },
-               "author": "SITHUM-KALHARA",
+               "author": "DANIDU-NIRMAL",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
